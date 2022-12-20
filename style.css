@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+/* Configurações globais das CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100%;
+    text-align: center;
+}
+
+body {
+    background-image: linear-gradient(45deg, #7419FF, #FE8E69, #FF378D, #FD60A3, #FFC001);
+}
+
